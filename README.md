@@ -73,7 +73,6 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ```
 $ npm install npm -g
-
 ```
 
 <br/>
@@ -86,19 +85,16 @@ $ npm install npm -g
 
    ```
    $ git clone https://github.com/ss357/Polling-System-API.git
-
    ```
 
 3. Install all the dependencies by running :
 
    ```
    npm install
-
    ```
 
 4. Run npm start to run the project at local host, port 8000:
 
    ```
    $ npm start
-
    ```
